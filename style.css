@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Pacifico&display=swap");
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css);
+
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: "Pacifico", cursive;
+
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
